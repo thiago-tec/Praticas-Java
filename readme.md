@@ -1,1 +1,3 @@
-aqui será todos os outros treinos praticados que não teve necessidade de criar em um repositorio particular
+## Práticas Java
+___
+Aqui será feito o commit sobre todas as práticas basicas com java. :speech_balloon:
